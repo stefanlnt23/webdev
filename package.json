@@ -1,0 +1,17 @@
+{
+    "name": "node-project",
+    "version": "1.0.0",
+    "description": "Node.js project with authentication and posts functionality",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^3.1.9",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "mongodb": "^5.7.0",
+        "mongoose": "^5.12.3"
+    }
+}
